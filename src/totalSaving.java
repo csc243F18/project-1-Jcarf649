@@ -1,10 +1,11 @@
 /*****************************
- * 
- *
- *
- *
- *
- *
+ *  John Carfaro
+ *  CSC_243
+ *  Project 1
+ *  September 17, 2018
+ *  totalSaving.java
+ *  Retirement Fund Calculator
+ *  total time = 3 hours
  *
  *****************************/
 
